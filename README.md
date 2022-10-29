@@ -25,5 +25,4 @@ The libraries used on this project include:
 ### Data Visualization
 The data visualization is designed using Power BI.
 
-[Interactive Dashboard](https://app.powerbi.com/reportEmbed?reportId=47a4dea8-3c00-4665-975c-302609371ca9&autoAuth=true&ctid=587c259d-cefb-4ca0-9c2f-2ec15fd4c740)
-
+[Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDllNmY2NGYtM2ZhZS00ZWMwLTlkZjMtMDFiYmE3M2JiMDQ1IiwidCI6IjU4N2MyNTlkLWNlZmItNGNhMC05YzJmLTJlYzE1ZmQ0Yzc0MCJ9)
