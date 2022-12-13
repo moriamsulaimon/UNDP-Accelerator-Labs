@@ -10,13 +10,13 @@ The UNDP Accelerator Labs is composed of 91 Lab teams covering 115 countries and
 [Project Information](https://www.vizforsocialgood.com/join-a-project/2022/9/15/undp-accelerator-labs-network)
 
 ### Python Libraries
-The libraries used on this project include:
+The libraries used in this project include:
 - Pandas
 - Geopy
 - Deep Translator
 
 ### Key Insights
-- 33.15% of solutions originated from the Regional Bureau of Africa which is the highest of the five (5) regions, while India has the highest energy solutions at the country level with 14.21% of the solutions origniating from there.
+- 33.15% of solutions originated from the Regional Bureau of Africa which is the highest of the five (5) regions, while India has the highest energy solutions at the country level with 14.21% of the solutions originating from there.
 - Of the 359 innovations, 107 (30.14%) are Household Application energy source.
 - A total of 283 solutions advance the Affordable and Clean Energy Sustainable Development Goal.
 - 27.86% of the innovations are open source which enables rapid penetration among the end users.
