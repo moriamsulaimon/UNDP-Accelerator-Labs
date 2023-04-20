@@ -1,6 +1,7 @@
 
 ## An Analysis of UNDP Accelerator Labs Innovations
 An analysis of the United Nations Development Programme (UNDP) Accelerator Labs Network to acknowledge the importance of local solutions found within local communities and these solutions contribute to achieving UNDP’s ambitious mission. The dataset is cleaned and analyzed using Excel and Python, while Power BI is used for the visualization.
+View [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDllNmY2NGYtM2ZhZS00ZWMwLTlkZjMtMDFiYmE3M2JiMDQ1IiwidCI6IjU4N2MyNTlkLWNlZmItNGNhMC05YzJmLTJlYzE1ZmQ0Yzc0MCJ9)
 
 ### Dataset
 This project is by [Viz for Social Good](https://www.vizforsocialgood.com/) for the UNDP Accelerator Labs.
